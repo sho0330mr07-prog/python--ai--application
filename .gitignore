@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+# ローカル専用
+/gh
+.claude/settings.local.json
+.claude/skills/*-workspace/
+.DS_Store
